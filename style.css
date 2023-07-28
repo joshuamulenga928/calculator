@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: url(game.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+span {
+    background-color: black;
+    color: blue;
+
+}
+button{
+    padding: 6px 20px;
+    background-color: red;
+    color: white;
+    align-items: center;
+    margin: 5px 2px;
+    border-radius: 50px;
+    border: none;
+    
+}
